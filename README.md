@@ -4,7 +4,7 @@
 
 * Robinhood is the name of the company that I will be conducting my case study.
 
-* Robin was incorporated on April 7th, 2013.
+* Robinhood was incorporated on April 7th, 2013.
 
 * Vladimir Tenev, a Bulgarian-American billionaire busniess tycoon, and Baiju Prafulkumar Bhatt, an Indian-AMerican billionaire business magnate founded the company.
 
@@ -17,11 +17,11 @@
 
 * Robinhood has set out to solve the barrier to entry of the financial markets for middle and lower class peoples. Bringing the same tools that wall street investors have to the burgeoning class of retail investors in an extremely easy to use format.
 
-* Robinhood's intended customers are the exponentially growing number of middle and lower class population that have a desire to enter the financial markets but either can't break the barrier to entry or simply don't know how to invest in the market. The market size of directly invested people in the stock market has risen from roughly 41mil to over 50mil people since 1989 even though the percentage of the population directly invested in the market has declined from 17% to 15% according to [usafacts.org].
+* Robinhood's intended customers are the exponentially growing number of the middle and lower class population that have a desire to enter the financial markets who either can't break the barrier to entry or simply don't know how to invest in the market. The market size of directly invested people in the stock market has risen from roughly 41mil to over 50mil people since 1989 even though the percentage of the population directly invested in the market has declined from 17% to 15% according to [usafacts.org].
 
 * The solution Robinhood presented to solve this problem was to bring the same tools that Wall Street investors have to the growing class of retail investors in an extremely easy to use App. They also make trades in real time using an algorithm known as the smart order router to place your orders to a market maker. The rebates from providing liquidity allow for free trades for the consumer. What Robinhood offered at the time of their release was an extremely easy to use app for investing, that also allowed the user to trade with zero fees. This was unheard of at the time, with the older platforms such as E-Trade, Charles Schwab, etc. offering only a browser experience and trades with massive fees. The old guard had to adapt fast.
 
-* Robinhood uses their own expertise with previously developing high volume trading platforms to creat an app that makes trades in real time and can handle a large volume of trades at any given moment. They additionally use an algorithm known as the smart order router to match and place the customers orders with a market maker or exchange according to past performance and liquidity. These technologies being built into the app from the start have given Robinhood an edge on innovation, which they will need if they ever plan on catching up to the other legacy platforms in terms of market share.
+* Robinhood uses their own expertise with previously developing high volume trading platforms to creat an app that makes trades in real time and can handle a large volume of trades at any given moment. They additionally use an algorithm known as the smart order router to match and place the customers orders with a market maker or exchange according to past performance and liquidity. These technologies being built into the app from the start have given Robinhood an edge on innovation, which they will need if they ever plan on catching up to the other legacy platforms in terms of market share and market cap.
 
 
 ## Landscape
@@ -35,14 +35,14 @@
 * The business impact of Robinhood has been one of short term pain so far. After they released their app the other companies in the space had to scramble to have some of the same offerings, namely a no fee trading structure. Announcing this particular feature resulted in a substancial loss in their individual stock prices due to the immediate loss in revenue. Robinhood also gave rise to a slew of new competiton for the big banks using derivatives of Robinhood's model. This has greatly increased competition and that generally increases innovation.
 
 * Generally speaking there are 5 ways to measure success:
-Sales Volume, Net Income, Sales and Earnings growth, Return on Equity(ROE), and Market Value. Robinhood's performance based on these metrics is looking very promising based on Market value and sales. Something that is troubling is their net earnings due to a sharp decline.
+Sales Volume, Net Income, Sales and Earnings growth, Return on Equity(ROE), and Market Value. Robinhood's performance based on these metrics is looking very promising based on Market value and sales. Something that is troubling is their net earnings due to a sharp decline from 2020 to 2021.
 
 * Robinhood, compared to its competition, is doing fairly well by gaining in market share but companies like eToro have been gaining and surpassing Robinhood in terms of total downloads of their respective apps. Robinhood does have the largest active user base by far and its not even close. Other companies such as TD Ameritrade and Charles Schwab have Sales in the Billions, due to their average account size being many times higher, while Robinhood has sales in the 500 million range. Robinhood in 2021 almost broke 2 billion in Sales and even though Robinhood is dwarfed by the bigger legacy companies, its trajectory has been trending upwards. Robinhood is in a unique position to offer products such as "Cash Management" which offers customers 2% yield just for keeping their fiat on Robinhood's platform, the bigger companies can't even think about offering such a percentage considering their cost structures.
 
 
 ## Recommendations
 
-* If I were to advise Robinhood, (considering that I despise what they have done to retail investors in recent memory, nevertheless there is something that can be learned from how they disrupted the industry) I would recommend that they continue to offer new services but in a better way than their competitors have done. New services could include Life Insurance, online banking features similar to Chime, and retirement account accounts. They could also offer better investment tools that surpass that of their competitors.
+* If I were to advise Robinhood, (considering that I despise what they have done to retail investors in recent memory, nevertheless there is something that can be learned from how they disrupted the industry) I would recommend that they continue to offer new services but in an easier to understand and use format than their competitors have done. New services could include Life Insurance, online banking features similar to Chime, and retirement account accounts. They could also offer better investment tools that surpass that of their competitors, as of now Robinhood's investment tools are lacking compared to TD Ameritrade.
 
 * Products like these, with more favorable terms than their competitors, will increase Robinhoods average account size up from $4,000 per customer. While it will take some time to catch up to the likes of Charles Schwab with an average of $234,000 per customer, financial service offerings like these will help them close the gap. Increasing their average account size will also help them in their Net Revenue department, they have only been in the green once in the last 5 years and last year they were $3.6 Billion in the red.
 
