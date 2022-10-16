@@ -54,7 +54,7 @@ Sales Volume, Net Income, Sales and Earnings growth, Return on Equity(ROE), and 
 ## Resources
 
 * [https://www.tradingview.com/chart/teKuIYNC/?symbol=BITSTAMP%3ABTCUSD] Robinhood financials page
-* [https://companiesmarketcap.com/e-trade/earnings/] E-trade Financials page
+* [companiesmarketcap.com] company financials page
 * [robinhood.com] Robinhood about us page
 * [usafacts.org] stats on stock ownership in teh U.S.
 * [macrotrends.net] U.S. population data
